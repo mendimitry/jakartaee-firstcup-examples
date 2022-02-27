@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/jakartaee-firstcup-examples-master/archetypes/dukes-age-archetype/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jakartaee-firstcup-examples-master/archetypes/dukes-age-archetype/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jakartaee-firstcup-examples-master/archetypes/firstcup-war-archetype/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jakartaee-firstcup-examples-master/archetypes/firstcup-war-archetype/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jakartaee-firstcup-examples-master/archetypes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jakartaee-firstcup-examples-master/archetypes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jakartaee-firstcup-examples-master/dukes-age/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jakartaee-firstcup-examples-master/dukes-age/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jakartaee-firstcup-examples-master/firstcup-war/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jakartaee-firstcup-examples-master/firstcup-war/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jakartaee-firstcup-examples-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jakartaee-firstcup-examples-master/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dukes-age:war">
+    <output-path>$PROJECT_DIR$/jakartaee-firstcup-examples-master/dukes-age/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>dukes-age</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="dukes-age.war">
+      <element id="artifact" artifact-name="dukes-age:war exploded" />
+    </root>
+  </artifact>
+</component>
